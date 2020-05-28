@@ -8,6 +8,9 @@
 		"AzureStorageLinkedService_connectionString": {
 			"value": ""
 		},
+		"tptesthana_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
