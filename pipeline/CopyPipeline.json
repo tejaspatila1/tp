@@ -29,6 +29,9 @@
 						}
 					},
 					"enableStaging": false,
+					"skipErrorFile": {
+						"fileMissing": true
+					},
 					"validateDataConsistency": false
 				},
 				"inputs": [
