@@ -1,0 +1,16 @@
+{
+	"name": "SapHanaTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "tptesthana",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SapHanaTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "SYS",
+			"table": "CS_BO_VIEWS"
+		}
+	}
+}
