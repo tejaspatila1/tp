@@ -1,10 +1,6 @@
 {
 	"name": "SapHanaTable1",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "tptesthana",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "SapHanaTable",
 		"schema": [],
