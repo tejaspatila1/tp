@@ -1,18 +1,7 @@
 {
 	"name": "InputDataset",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "AzureStorageLinkedService",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
-		"type": "Binary",
-		"typeProperties": {
-			"location": {
-				"type": "AzureBlobStorageLocation",
-				"folderPath": "input",
-				"container": "tptestcontainer"
-			}
-		}
+		"type": "Binary"
 	}
 }
